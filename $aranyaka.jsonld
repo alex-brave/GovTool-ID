@@ -80,7 +80,7 @@
       {
         "@type": "Identity",
         "label": "Identity ID (verified)",
-        "uri": "github.com"
+        "uri": "https://raw.githubusercontent.com/aranyakax/GovTool-ID/refs/heads/main/%24aranyaka.jsonld"
       }
     ]
   }

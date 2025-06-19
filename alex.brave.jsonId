@@ -80,7 +80,7 @@
       {
         "@type": "Identity",
         "label": "Identity ID (verified)",
-        "uri": "https://raw.githubusercontent.com/alex-brave/GovTool-ID/refs/heads/main/alex.brave.jsonId"
+        "uri": "https://raw.githubusercontent.com/alex-brave/GovTool-ID/refs/heads/main/%24alex.brave.jsonId"
       }
     ]
   }
